@@ -14,3 +14,8 @@ I am currently studying Python to build a solid programming foundation before mo
 ## Current Goal
 
 Build strong programming fundamentals and gradually prepare for Luau and Roblox development.
+
+## Disclaimer
+
+Most file names are in PT-BR because i am from Brazil and wrote these exercises in Brazilian Portuguese. (PT-BR)
+
