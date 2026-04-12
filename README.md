@@ -9,7 +9,6 @@ I am currently studying Python to build a solid programming foundation before mo
 - beginner exercises
 - logic practice
 - small Python scripts
-- study progress by stage
 - extra practice files
 
 ## Current Goal
